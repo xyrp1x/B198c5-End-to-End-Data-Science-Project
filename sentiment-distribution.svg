@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="380" viewBox="0 0 920 380">
+<rect width="920" height="380" rx="22" fill="#0d1117"/>
+<text x="46" y="58" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="25" font-weight="700">Sampled review sentiment</text>
+<text x="46" y="91" fill="#8b949e" font-family="Arial, sans-serif" font-size="15">Reported class distribution in the 100,000-review sample</text>
+<path d="M 230.00 115.00 A 105 105 0 1 1 163.34 138.88 L 189.37 170.55 A 64 64 0 1 0 230.00 156.00 Z" fill="#58a6ff"/>
+<path d="M 163.34 138.88 A 105 105 0 0 1 230.00 115.00 L 230.00 156.00 A 64 64 0 0 0 189.37 170.55 Z" fill="#f85149"/>
+<text x="230" y="214" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="28" font-weight="700" text-anchor="middle">100K</text>
+<text x="230" y="238" fill="#8b949e" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">reviews</text>
+<circle cx="470" cy="160" r="8" fill="#58a6ff"/>
+<text x="492" y="168" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="22" font-weight="700">Positive · 89.0%</text>
+<text x="492" y="197" fill="#8b949e" font-family="Arial, sans-serif" font-size="16">89,052 reviews</text>
+<circle cx="470" cy="250" r="8" fill="#f85149"/>
+<text x="492" y="258" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="22" font-weight="700">Negative · 11.0%</text>
+<text x="492" y="287" fill="#8b949e" font-family="Arial, sans-serif" font-size="16">10,948 reviews</text>
+<text x="46" y="344" fill="#8b949e" font-family="Arial, sans-serif" font-size="13">After empty reviews are removed, the report states a processed dataset size of 99,816.</text>
+</svg>
