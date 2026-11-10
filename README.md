@@ -2,7 +2,7 @@
 SteamSense: AI-Powered Steam Review Analysis
 An NLP-based pipeline that transforms large volumes of Steam player reviews into sentiment insights and actionable recommendations for game developers.
 <p align="center">
- ![SteamSense five-stage data pipeline](pipeline.svg)
+ !SteamSense five-stage data pipeline(pipeline.svg)
 </p>Overview
 SteamSense helps developers understand what players like and dislike without manually reading thousands of reviews. It combines sentiment classification with topic modeling to identify both overall player opinion and the reasons behind it.
 Business Value
